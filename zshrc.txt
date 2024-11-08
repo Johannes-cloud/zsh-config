@@ -75,3 +75,5 @@ zstyle ':completion:*' menu no
 alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
+alias python='python3'
+alias pip='pip3'
